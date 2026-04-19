@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/__init__.py
+src/clustering.py
+src/data_preprocessing.py
+src/recommender.py
+src/train_model.py
+src/utils.py
+student_segmentation.egg-info/PKG-INFO
+student_segmentation.egg-info/SOURCES.txt
+student_segmentation.egg-info/dependency_links.txt
+student_segmentation.egg-info/requires.txt
+student_segmentation.egg-info/top_level.txt
